@@ -9,8 +9,7 @@ A **simple Tic-Tac-Toe** game built with **Python and Tkinter**, featuring a gra
 - 🔥 **Winner detection & game reset functionality**
 - 🚀 **Error handling** for invalid moves
 
-## 📷 Screenshot  
-(You can add a screenshot of the game window here)
+
 
 ## 📦 Installation & Setup  
 1. **Clone the repository**  
